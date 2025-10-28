@@ -102,5 +102,5 @@ remotes::install_github("marlonecobos/kuenm")
 
 ## ✨ Autores
 
-**Juan Pablo Ramírez Mendoza, chiara Ordoñez,Osvaldo**  
+**Juan Pablo Ramírez Mendoza, Chiara Estefania Ordoñez Moreno,Osvaldo**  
 
